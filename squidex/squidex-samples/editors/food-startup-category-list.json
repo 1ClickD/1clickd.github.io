@@ -1,8 +1,15 @@
 [
-  "/food-delivery/",
-  "/table-booking/",
-  "/food-logistics/",
-  "/food-production/",
-  "/cloud-kitchen/",
-  "/food-sustainability/"
+  "/food-delivery/b2c/",
+  "/food-delivery/b2b/",
+  "/food-logistics/b2c/",
+  "/food-logistics/b2b"/,
+  "/food-production/meat/",
+  "/food-production/seafood/",
+  "/food-production/vegetables/",
+  "/food-production/fruits/",
+  "/cloud-kitchen/home-delivery/",
+  "/cloud-kitchen/restaurant-delivery/",
+  "/cloud-kitchen/catering-services/",
+  "/food-sustainability/surplus/",
+  "/food-sustainability/wastage/"
 ]
